@@ -21,12 +21,12 @@
   /*
     Theme Background
   */
-  --theme-background-image: url(https://i.imgur.com/j1Z6HVc.jpg);
+  --theme-background-image: url(https://media.discordapp.net/attachments/1117082509042257992/1117082618240970813/wp3128427-need-for-speed-the-run-wallpapers.jpg);
 
   /*
     Main Theme Color
   */
-  --main-theme-color: rgb(67, 181, 129);
+  --main-theme-color: rgb(255,179,0);
 
   /*
     Main Theme Transparency
@@ -36,7 +36,7 @@
   /*
     Home Icon Image
   */
-  --home-icon-image: url(https://i.imgur.com/63g6Em8.jpg);
+  --home-icon-image: url(https://cdn.discordapp.com/avatars/999922720395501578/5216858e420e8d0706abe51ded11dfc6.png);
 
   /*
     Change your friends icon image position
