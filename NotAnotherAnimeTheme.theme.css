@@ -190,8 +190,8 @@
   /*
     Folders
   */
-  --folder-background-color: #2f3136;
-  --expanded-folder-background-color: transparent;
+  --folder-background-color: #ff0000;
+  --expanded-folder-background-color: rgba(249, 168, 0, 0.2);
 
   /*
     Reactions
