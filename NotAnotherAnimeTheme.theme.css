@@ -78,8 +78,7 @@
     Change the unread server animation.
     Replace it with "none" in order to remove any animations and use the main color instead
   */
-  --unread-server-animation: rainbow;
-
+  --unread-server-animation: none
   /*
     Video / Screen share buttons
   */
@@ -126,7 +125,7 @@
   /*
     Message Hover Buttons
   */
-  --message-hover-buttons-background: rgba(200, 200, 200, 0.1);
+  --message-hover-buttons-background: rgba(200, 200, 200, 0.2);
 
   /*
     Context Menu Transparency
@@ -136,7 +135,7 @@
   /*
     Add Server / Discovery Icon
   */
-  --add-discover-icon-transparency: rgba(200, 200, 200, 0.15);
+  --add-discover-icon-transparency: rgba(249, 168, 0, 0.15);
   --add-discover-icon-color: #43b581;
 
   /*
@@ -149,7 +148,7 @@
   /*
     Scrollbar Colors
   */
-  --scrollbar-color: rgba(200, 200, 200, 0.2);
+  --scrollbar-color: rgba(249, 168, 0, 0.2);
 
   /*
     Unread Message Divider
